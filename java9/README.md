@@ -38,15 +38,15 @@ Link: [http://openjdk.java.net/projects/jigsaw/talks/](http://openjdk.java.net/p
 [slides](http://openjdk.java.net/projects/jigsaw/talks/adv-modular-dev-j1-2016.pdf)
 [video](https://www.youtube.com/watch?v=WWbw8u5jaaU)
 
-#####Project Jigsaw: Under the Hood (Alex Buckley)##### 
+#####Project Jigsaw: Under the Hood (Alex Buckley)#####
 [slides](http://openjdk.java.net/projects/jigsaw/talks/jigsaw-under-the-hood-j1-2016.pdf)
 [video](https://www.youtube.com/watch?v=Vxfd3ehdAZc)
 
-#####Modules and Services (Alex Buckley)##### 
+#####Modules and Services (Alex Buckley)#####
 [slides](http://openjdk.java.net/projects/jigsaw/talks/modules-and-services-j1-2016.pdf)
 [video](https://www.youtube.com/watch?v=u8Hbdo-u-88)
 
-#####Project Jigsaw Hack Session (Alan Bateman, Mandy Chung, Mark Reinhold)##### 
+#####Project Jigsaw Hack Session (Alan Bateman, Mandy Chung, Mark Reinhold)#####
 [video](https://www.youtube.com/watch?v=w4lLd-JOyRU)
 
 ####Devoxx BE 2015####
@@ -66,10 +66,10 @@ Link: [http://openjdk.java.net/projects/jigsaw/talks/](http://openjdk.java.net/p
 #####Modular Development with JDK 9 (2h40m tutorial including the Introduction and Advanced material, Alan Bateman, Mark Reinhold)#####
 [video](https://www.youtube.com/watch?v=V6ycn1-QQV0)
 
-#####Project Jigsaw: Under the Hood (Mark Reinhold)##### 
+#####Project Jigsaw: Under the Hood (Mark Reinhold)#####
 [video](https://www.youtube.com/watch?v=UKC0uC7QUkI)
 
-#####Devoxx Live interview (Mark Reinhold)##### 
+#####Devoxx Live interview (Mark Reinhold)#####
 [video](https://www.youtube.com/watch?v=Gta0JtNzTdc)
 
 
